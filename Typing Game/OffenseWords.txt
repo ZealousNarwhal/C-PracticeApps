@@ -1,0 +1,1 @@
+Attack,Swing,Smash,Hit,Bash,Assault,Charge,Pounce,Strike,Lunge
